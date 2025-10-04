@@ -17,11 +17,11 @@ A realistic, 10-year synthetic dataset was custom-built for this project as real
 * Researching the tenant profiles and building characteristics of Manyata Tech Park in Bengaluru.
 * Integrating historical weather data for the region to model its impact on energy usage (e.g., higher AC use on hotter days).
 * Simulating realistic data patterns, including daily, weekly, and seasonal consumption cycles, and introducing controlled missing values and errors to replicate real-world data quality challenges.
-
-#### Predictive Modeling
-A LightGBM regression model was trained to predict the "Electricity Reading (kWh)" for each tenant.
-* Features included tenant industry type, number of employees, day of the week, month, and weather conditions.
-* The model provides accurate forecasts that can be used for resource planning and billing estimations.
+  
+* #### Predictive Modeling
+* A LightGBM regression model was trained to predict the "Electricity Reading (kWh)" for each tenant.
+* **Features included:** tenant industry type, number of employees, day of the week, month, and weather conditions.
+* *The final model provides accurate forecasts that can be used for resource planning, anomaly detection, and billing estimations, enabling more efficient energy management.*
 
 ## 4. Final Dashboard Showcase
 
@@ -47,4 +47,4 @@ https://github.com/Simranrajj/Sustainable-Electricity-Solution-for-Tech-Park/blo
 To replicate the data engineering and modeling process:
 1. Clone the repository: `git clone https://github.com/Simranrajj/Sustainable-Electricity-Solution-for-Tech-Park.git`
 2. Navigate to the project directory.
-3. The primary analysis and modeling code can be found in the [Name of your Python file or Notebook].
+3. The primary analysis and modeling code can be found in the manyata(11).py file. Link for the same is https://github.com/Simranrajj/Sustainable-Electricity-Solution-for-Tech-Park/blob/main/manyata%20(11).py.
