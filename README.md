@@ -40,3 +40,11 @@ https://github.com/Simranrajj/Sustainable-Electricity-Solution-for-Tech-Park/blo
 ### Tenant Analysis Page
 *This page focuses on tenant-specific metrics like energy efficiency and energy usage per employee.*
 https://github.com/Simranrajj/Sustainable-Electricity-Solution-for-Tech-Park/blob/main/MTP3.png
+
+
+## 5. How to Run This Project
+
+To replicate the data engineering and modeling process:
+1. Clone the repository: `git clone https://github.com/Simranrajj/Sustainable-Electricity-Solution-for-Tech-Park.git`
+2. Navigate to the project directory.
+3. The primary analysis and modeling code can be found in the [Name of your Python file or Notebook].
