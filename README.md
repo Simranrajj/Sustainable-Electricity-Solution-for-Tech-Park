@@ -31,12 +31,12 @@ An interactive Power BI dashboard was designed as the frontend to present the mo
 
 ### Summary Page
 *This page provides a high-level overview with key performance indicators (KPIs) and the main prediction module.*
-!(YOUR_IMAGE_LINK_HERE_FOR_MTP1.JPG)
+https://github.com/Simranrajj/Sustainable-Electricity-Solution-for-Tech-Park/blob/main/MTP1.png
 
 ### Electricity Analysis Page
 *This page allows for a deeper dive into historical electricity consumption trends by industry, day of the week, and year.*
-!(YOUR_IMAGE_LINK_HERE_FOR_MTP2.JPG)
+https://github.com/Simranrajj/Sustainable-Electricity-Solution-for-Tech-Park/blob/main/MTP2.png
 
 ### Tenant Analysis Page
 *This page focuses on tenant-specific metrics like energy efficiency and energy usage per employee.*
-!(YOUR_IMAGE_LINK_HERE_FOR_MTP3.JPG)
+https://github.com/Simranrajj/Sustainable-Electricity-Solution-for-Tech-Park/blob/main/MTP3.png
